@@ -5,6 +5,6 @@ import { HttpModule }   from '@angular/http';
 @NgModule({
   exports: [CommonModule, HttpModule]
 })
-export class CoreModule {
+export class SharedModule {
 
 }

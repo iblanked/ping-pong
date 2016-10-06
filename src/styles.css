@@ -5,3 +5,7 @@
 .floatLeft {
   float: left;
 }
+
+.playerName {
+  margin-right: 10px;
+}
